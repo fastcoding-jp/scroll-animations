@@ -1,0 +1,11 @@
+.square{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+
+.blue{background: blue;margin-top: 500px;margin-bottom: 500px;float:right}
+.red{background: red;}
+.green{background: green;margin-top: 500px;}
+.purple{background: purple;}
+

@@ -1,0 +1,13 @@
+@keyframes fadeIn{
+    to{
+        transform: none;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn{
+    to{
+        -webkit-transform: none;
+        opacity: 1;
+    }
+}
